@@ -77,4 +77,47 @@ let emp1 = {
     "salary" : "50000",
 }
 
-- in the above ex we can see that the left hand side  elements are the keys and the right hand 
+Conditional statement :-
+
+- to impliment some conditions in the code.
+- there are 3 types of conditional statement are there
+1. If conditions :-
+
+- If conditions is true then ststement is true.
+- syntax :-
+if(condition){
+    ststement
+}
+
+2. If-else conditions :-
+
+- If conditions is true then ststement is true otherwise false.
+- syntax :-
+if(condition){
+    ststement
+} else {
+    statement
+}
+
+3. If-elif conditions :-
+
+- Its check the conditions multiple times, where the conditions is true.
+- syntax :-
+if(condition){
+    statement
+} else if(condition){
+    ststement
+} else if(condition){
+    ststement
+} else {
+    ststement
+}
+
+practice question :-
+
+- write a code which can gives grades to students according to their scores :-
+1. 80 - 100 (A)
+2. 70 -79 (B)
+3. 60 - 69 (C)
+4. 50 - 59 (D)
+5. 0 - 49 (FAIL)
