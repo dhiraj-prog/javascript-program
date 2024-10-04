@@ -121,3 +121,17 @@ practice question :-
 3. 60 - 69 (C)
 4. 50 - 59 (D)
 5. 0 - 49 (FAIL)
+ 
+Array on JS :-
+
+- Array is a collection of items.
+- Ex :-
+let heros = ["iron man","hulk","super man","spyder man"]
+- Array index is starting from "0".
+- arr[0], arr[1]...etc...
+
+Looping over an array :-
+
+- Loop -> iterable
+- syntex ->
+for ()
