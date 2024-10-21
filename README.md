@@ -135,3 +135,50 @@ Looping over an array :-
 - Loop -> iterable
 - syntex ->
 for ()
+
+Function :-
+
+- It is a block of code that performs a specific task, can be invoked (called) whenever needed.
+
+ex :-
+
+- console.log("hello world") -> in that code log() is a function.
+- "abc".touppercase() -> toUppercase() is a function.
+- [1,2,3].push(4); -> push()is a function.
+
+-> Function Defination :-
+function functionName(){
+    // do some task
+}
+
+-> Function Calling :-
+functionName()
+
+-> Parameterised Function :-
+function functionName(parameter1, parameter2){
+    // do some work
+}
+
+functionName(argument1, argument2)
+
+Arrow Function in JS :-
+
+- compact way of writing a function.
+ex :-
+const functionname = (parameter1, parameter2...) => {
+    // do some work
+}
+ex :-
+const sum = (a,b) => {
+    return a + b;
+}
+
+ex of sum :-
+
+function sum(a,b){
+    return a + b;
+}
+
+const arrowSum = (a,b) => {
+    return a + b;
+}
