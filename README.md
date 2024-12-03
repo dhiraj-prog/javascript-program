@@ -182,3 +182,17 @@ function sum(a,b){
 const arrowSum = (a,b) => {
     return a + b;
 }
+
+Import & Export Statement :-
+
+- When we using some files or function then 1st we import it to our app.jsx then we use it otherwise it will shoe error or can't define.
+
+React Components :-
+
+- In react, a component is essential in javascript function or class that returns a JSX.
+- There are two types to create your component in react :-
+
+1. Class Based Component -> Before 2016 react uses mostly class based component.
+
+ex . 
+import React, {Component} from  
